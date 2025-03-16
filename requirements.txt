@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy 
+matplotlib
+ipykernel
+seaborn
+memory_profiler
+streamlit
+streamlit_option_menu
+plotly
